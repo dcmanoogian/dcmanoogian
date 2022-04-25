@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dcmanoogian
+- 👀 I’m interested in starting a new career in data analytics
+- 🌱 I’m newly certified as a data analyst, so I am continuing to learn more about SQL and R
+- 💞️ I’m looking to collaborate on projects I can add to my portfolio
+- 📫 How to reach me — dcmanoogian@gmail.com — https://www.linkedin.com/in/davidcharlesmanoogian/
